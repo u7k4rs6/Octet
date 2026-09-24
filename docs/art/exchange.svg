@@ -1,0 +1,168 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="744" viewBox="0 0 1280 744" role="img" aria-label="One Octet connection carrying three requests, an unknown frame and a malformed frame">
+<title>One Octet connection carrying three requests, an unknown frame and a malformed frame</title><desc>A client and server share one TCP connection. The client fetches /hello.txt and gets RESPONSE 200 then DATA with END. An unknown frame type 0x7f is skipped. /nope returns 404 on the same connection. A frame with version 2 gets 400 and the server closes.</desc>
+<defs><linearGradient id="sea" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0A2238"/><stop offset="1" stop-color="#061524"/></linearGradient><clipPath id="card"><rect width="1280" height="744" rx="22"/></clipPath><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="context-stroke"/></marker></defs>
+<g clip-path="url(#card)">
+<rect width="1280" height="744" fill="url(#sea)"/>
+<circle cx="797" cy="552" r="1.3" fill="#4FE3C1" opacity="0.38"/>
+<circle cx="947" cy="686" r="0.8" fill="#4FE3C1" opacity="0.36"/>
+<circle cx="993" cy="185" r="0.8" fill="#4FE3C1" opacity="0.37"/>
+<circle cx="145" cy="349" r="0.8" fill="#4FE3C1" opacity="0.23"/>
+<circle cx="131" cy="186" r="1.3" fill="#4FE3C1" opacity="0.18"/>
+<circle cx="358" cy="682" r="1.0" fill="#4FE3C1" opacity="0.16"/>
+<circle cx="1020" cy="103" r="1.3" fill="#4FE3C1" opacity="0.24"/>
+<circle cx="169" cy="723" r="0.8" fill="#4FE3C1" opacity="0.18"/>
+<circle cx="276" cy="731" r="0.8" fill="#4FE3C1" opacity="0.20"/>
+<circle cx="1231" cy="401" r="1.3" fill="#4FE3C1" opacity="0.30"/>
+<circle cx="233" cy="721" r="0.8" fill="#4FE3C1" opacity="0.39"/>
+<circle cx="1144" cy="222" r="1.0" fill="#4FE3C1" opacity="0.24"/>
+<circle cx="1198" cy="196" r="1.0" fill="#4FE3C1" opacity="0.20"/>
+<circle cx="772" cy="3" r="1.3" fill="#4FE3C1" opacity="0.32"/>
+<circle cx="85" cy="264" r="1.0" fill="#4FE3C1" opacity="0.25"/>
+<circle cx="404" cy="358" r="1.3" fill="#4FE3C1" opacity="0.17"/>
+<circle cx="328" cy="699" r="1.3" fill="#4FE3C1" opacity="0.22"/>
+<circle cx="517" cy="409" r="1.0" fill="#4FE3C1" opacity="0.22"/>
+<circle cx="741" cy="7" r="0.8" fill="#4FE3C1" opacity="0.32"/>
+<circle cx="798" cy="710" r="0.8" fill="#4FE3C1" opacity="0.33"/>
+<circle cx="1190" cy="701" r="1.0" fill="#4FE3C1" opacity="0.26"/>
+<circle cx="1143" cy="187" r="1.0" fill="#4FE3C1" opacity="0.15"/>
+<circle cx="958" cy="593" r="1.0" fill="#4FE3C1" opacity="0.13"/>
+<circle cx="1211" cy="68" r="1.0" fill="#4FE3C1" opacity="0.26"/>
+<circle cx="464" cy="110" r="1.0" fill="#4FE3C1" opacity="0.38"/>
+<circle cx="698" cy="232" r="1.0" fill="#4FE3C1" opacity="0.21"/>
+<circle cx="1022" cy="466" r="1.3" fill="#4FE3C1" opacity="0.31"/>
+<circle cx="1276" cy="120" r="0.8" fill="#4FE3C1" opacity="0.14"/>
+<circle cx="769" cy="687" r="0.8" fill="#4FE3C1" opacity="0.19"/>
+<circle cx="760" cy="615" r="1.0" fill="#4FE3C1" opacity="0.30"/>
+<circle cx="186" cy="728" r="1.3" fill="#4FE3C1" opacity="0.13"/>
+<circle cx="632" cy="624" r="0.8" fill="#4FE3C1" opacity="0.39"/>
+<circle cx="722" cy="99" r="1.0" fill="#4FE3C1" opacity="0.15"/>
+<circle cx="556" cy="111" r="1.0" fill="#4FE3C1" opacity="0.20"/>
+<circle cx="580" cy="743" r="0.8" fill="#4FE3C1" opacity="0.39"/>
+<circle cx="581" cy="363" r="1.3" fill="#4FE3C1" opacity="0.21"/>
+<circle cx="351" cy="350" r="0.8" fill="#4FE3C1" opacity="0.15"/>
+<circle cx="1052" cy="396" r="0.8" fill="#4FE3C1" opacity="0.30"/>
+<circle cx="639" cy="252" r="0.8" fill="#4FE3C1" opacity="0.26"/>
+<circle cx="659" cy="408" r="1.3" fill="#4FE3C1" opacity="0.22"/>
+<circle cx="1006" cy="577" r="1.3" fill="#4FE3C1" opacity="0.28"/>
+<circle cx="44" cy="227" r="1.3" fill="#4FE3C1" opacity="0.32"/>
+<circle cx="359" cy="361" r="1.3" fill="#4FE3C1" opacity="0.32"/>
+<circle cx="1225" cy="253" r="0.8" fill="#4FE3C1" opacity="0.28"/>
+<circle cx="15" cy="407" r="1.0" fill="#4FE3C1" opacity="0.21"/>
+<circle cx="350" cy="215" r="1.3" fill="#4FE3C1" opacity="0.30"/>
+<circle cx="1021" cy="259" r="1.3" fill="#4FE3C1" opacity="0.22"/>
+<circle cx="1200" cy="304" r="0.8" fill="#4FE3C1" opacity="0.36"/>
+<circle cx="881" cy="726" r="1.0" fill="#4FE3C1" opacity="0.27"/>
+<circle cx="678" cy="124" r="1.0" fill="#4FE3C1" opacity="0.38"/>
+<circle cx="611" cy="514" r="1.3" fill="#4FE3C1" opacity="0.31"/>
+<circle cx="533" cy="459" r="1.3" fill="#4FE3C1" opacity="0.26"/>
+<circle cx="1199" cy="225" r="1.3" fill="#4FE3C1" opacity="0.34"/>
+<circle cx="815" cy="536" r="0.8" fill="#4FE3C1" opacity="0.17"/>
+<circle cx="751" cy="464" r="0.8" fill="#4FE3C1" opacity="0.18"/>
+<circle cx="878" cy="469" r="0.8" fill="#4FE3C1" opacity="0.40"/>
+<circle cx="1254" cy="123" r="0.8" fill="#4FE3C1" opacity="0.15"/>
+<circle cx="1239" cy="359" r="1.3" fill="#4FE3C1" opacity="0.13"/>
+<circle cx="596" cy="283" r="1.3" fill="#4FE3C1" opacity="0.14"/>
+<circle cx="262" cy="534" r="1.0" fill="#4FE3C1" opacity="0.12"/>
+<circle cx="519" cy="207" r="1.0" fill="#4FE3C1" opacity="0.36"/>
+<circle cx="882" cy="407" r="0.8" fill="#4FE3C1" opacity="0.27"/>
+<circle cx="386" cy="220" r="1.3" fill="#4FE3C1" opacity="0.22"/>
+<circle cx="744" cy="713" r="0.8" fill="#4FE3C1" opacity="0.24"/>
+<circle cx="1041" cy="478" r="1.0" fill="#4FE3C1" opacity="0.25"/>
+<circle cx="201" cy="285" r="1.0" fill="#4FE3C1" opacity="0.39"/>
+<circle cx="1239" cy="453" r="1.0" fill="#4FE3C1" opacity="0.35"/>
+<circle cx="847" cy="284" r="1.0" fill="#4FE3C1" opacity="0.28"/>
+<circle cx="787" cy="105" r="1.3" fill="#4FE3C1" opacity="0.37"/>
+<circle cx="722" cy="319" r="0.8" fill="#4FE3C1" opacity="0.26"/>
+<circle cx="614" cy="527" r="1.0" fill="#4FE3C1" opacity="0.39"/>
+<circle cx="1170" cy="443" r="1.0" fill="#4FE3C1" opacity="0.33"/>
+<circle cx="385" cy="187" r="0.8" fill="#4FE3C1" opacity="0.21"/>
+<circle cx="1260" cy="366" r="1.0" fill="#4FE3C1" opacity="0.16"/>
+<circle cx="30" cy="491" r="1.0" fill="#4FE3C1" opacity="0.19"/>
+<circle cx="51" cy="102" r="1.0" fill="#4FE3C1" opacity="0.12"/>
+<circle cx="682" cy="204" r="1.0" fill="#4FE3C1" opacity="0.34"/>
+<circle cx="314" cy="199" r="0.8" fill="#4FE3C1" opacity="0.32"/>
+<circle cx="366" cy="366" r="1.0" fill="#4FE3C1" opacity="0.27"/>
+<circle cx="1105" cy="655" r="0.8" fill="#4FE3C1" opacity="0.12"/>
+<circle cx="161" cy="210" r="1.3" fill="#4FE3C1" opacity="0.21"/>
+<circle cx="380" cy="394" r="1.0" fill="#4FE3C1" opacity="0.22"/>
+<circle cx="873" cy="605" r="0.8" fill="#4FE3C1" opacity="0.13"/>
+<circle cx="323" cy="339" r="0.8" fill="#4FE3C1" opacity="0.37"/>
+<circle cx="698" cy="11" r="1.0" fill="#4FE3C1" opacity="0.29"/>
+<circle cx="882" cy="709" r="1.3" fill="#4FE3C1" opacity="0.25"/>
+<circle cx="1167" cy="287" r="1.0" fill="#4FE3C1" opacity="0.31"/>
+<circle cx="921" cy="669" r="1.0" fill="#4FE3C1" opacity="0.35"/>
+<circle cx="85" cy="622" r="1.3" fill="#4FE3C1" opacity="0.34"/>
+<circle cx="745" cy="482" r="1.0" fill="#4FE3C1" opacity="0.37"/>
+<circle cx="183" cy="356" r="1.3" fill="#4FE3C1" opacity="0.37"/>
+<circle cx="1245" cy="400" r="1.0" fill="#4FE3C1" opacity="0.28"/>
+<circle cx="1039" cy="51" r="0.8" fill="#4FE3C1" opacity="0.19"/>
+<circle cx="109" cy="47" r="0.8" fill="#4FE3C1" opacity="0.21"/>
+<circle cx="550" cy="51" r="1.0" fill="#4FE3C1" opacity="0.32"/>
+<circle cx="63" cy="626" r="0.8" fill="#4FE3C1" opacity="0.29"/>
+<circle cx="1055" cy="83" r="0.8" fill="#4FE3C1" opacity="0.40"/>
+<circle cx="903" cy="326" r="0.8" fill="#4FE3C1" opacity="0.29"/>
+<circle cx="530" cy="120" r="1.3" fill="#4FE3C1" opacity="0.18"/>
+<circle cx="711" cy="491" r="1.3" fill="#4FE3C1" opacity="0.14"/>
+<circle cx="74" cy="428" r="1.3" fill="#4FE3C1" opacity="0.23"/>
+<circle cx="798" cy="7" r="0.8" fill="#4FE3C1" opacity="0.21"/>
+<circle cx="768" cy="364" r="1.3" fill="#4FE3C1" opacity="0.22"/>
+<circle cx="71" cy="519" r="0.8" fill="#4FE3C1" opacity="0.28"/>
+<circle cx="868" cy="216" r="1.3" fill="#4FE3C1" opacity="0.27"/>
+<text xml:space="preserve" x="60" y="62" font-family="'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="13" letter-spacing="3.5" fill="#4FE3C1">ONE CONNECTION, START TO FINISH</text>
+<text xml:space="preserve" x="60" y="100" font-family="'Inter','Segoe UI','Helvetica Neue',Arial,'DejaVu Sans',sans-serif" font-size="26" font-weight="700" fill="#EAF2F8">Connect once. Frames go back and forth until something is malformed.</text>
+<rect x="160" y="124" width="180" height="50" rx="12" fill="#0E2B45" stroke="#4FE3C1" stroke-width="1.6"/>
+<text xml:space="preserve" x="250" y="150" font-family="'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="18" text-anchor="middle" font-weight="700" fill="#EAF2F8">bcurl</text>
+<text xml:space="preserve" x="250" y="166" font-family="'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="11" text-anchor="middle" fill="#8FB3CF">client</text>
+<rect x="940" y="124" width="180" height="50" rx="12" fill="#0E2B45" stroke="#4FE3C1" stroke-width="1.6"/>
+<text xml:space="preserve" x="1030" y="150" font-family="'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="18" text-anchor="middle" font-weight="700" fill="#EAF2F8">bserve</text>
+<text xml:space="preserve" x="1030" y="166" font-family="'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="11" text-anchor="middle" fill="#8FB3CF">server</text>
+<rect x="250" y="182" width="780" height="468" rx="8" fill="#4FE3C1" opacity="0.045"/>
+<line x1="250" y1="174" x2="250" y2="660" stroke="#1C4466" stroke-width="2"/>
+<line x1="1030" y1="174" x2="1030" y2="660" stroke="#1C4466" stroke-width="2"/>
+<line x1="250" y1="212" x2="1024" y2="212" stroke="#F26B7A" stroke-width="2.2" marker-end="url(#ah)"/>
+<rect x="491.0" y="196" width="298.0" height="32" rx="16" fill="#061524" stroke="#F26B7A" stroke-width="1.6"/>
+<rect x="492.0" y="197" width="138.39999999999998" height="30" rx="15" fill="#F26B7A" opacity="0.16"/>
+<text xml:space="preserve" x="560.2" y="217" font-family="'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="13" text-anchor="middle" font-weight="700" fill="#F26B7A">REQUEST  [END]</text>
+<text xml:space="preserve" x="640.4" y="217" font-family="'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="13" fill="#EAF2F8">:path /hello.txt</text>
+<line x1="1030" y1="270" x2="256" y2="270" stroke="#4FE3C1" stroke-width="2.2" marker-end="url(#ah)"/>
+<rect x="456.6" y="254" width="366.8" height="32" rx="16" fill="#061524" stroke="#4FE3C1" stroke-width="1.6"/>
+<rect x="457.6" y="255" width="86.8" height="30" rx="15" fill="#4FE3C1" opacity="0.16"/>
+<text xml:space="preserve" x="500.0" y="275" font-family="'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="13" text-anchor="middle" font-weight="700" fill="#4FE3C1">RESPONSE</text>
+<text xml:space="preserve" x="554.4" y="275" font-family="'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="13" fill="#EAF2F8">:status 200  content-length 13</text>
+<line x1="1030" y1="328" x2="256" y2="328" stroke="#F7C35F" stroke-width="2.2" marker-end="url(#ah)"/>
+<rect x="460.9" y="312" width="358.2" height="32" rx="16" fill="#061524" stroke="#F7C35F" stroke-width="1.6"/>
+<rect x="461.9" y="313" width="112.6" height="30" rx="15" fill="#F7C35F" opacity="0.16"/>
+<text xml:space="preserve" x="517.1999999999999" y="333" font-family="'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="13" text-anchor="middle" font-weight="700" fill="#F7C35F">DATA  [END]</text>
+<text xml:space="preserve" x="584.5" y="333" font-family="'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="13" fill="#EAF2F8">hello, octet\n  (13 bytes)</text>
+<text xml:space="preserve" x="234" y="332" font-family="'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="12" text-anchor="end" fill="#8FB3CF">bcurl prints the body, exit 0</text>
+<line x1="250" y1="386" x2="830.0" y2="386" stroke="#A99BFF" stroke-width="2.2" stroke-dasharray="6 6" marker-end="url(#ah)"/>
+<rect x="512.5" y="370" width="255.0" height="32" rx="16" fill="#061524" stroke="#A99BFF" stroke-width="1.6"/>
+<rect x="513.5" y="371" width="69.6" height="30" rx="15" fill="#A99BFF" opacity="0.16"/>
+<text xml:space="preserve" x="547.3" y="391" font-family="'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="13" text-anchor="middle" font-weight="700" fill="#A99BFF">0x7f ?</text>
+<text xml:space="preserve" x="593.1" y="391" font-family="'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="13" fill="#EAF2F8">type 0x7f, 12 bytes</text>
+<text xml:space="preserve" x="846.0" y="390" font-family="'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="12" fill="#8FB3CF">skipped whole: room for a v2</text>
+<line x1="250" y1="444" x2="1024" y2="444" stroke="#F26B7A" stroke-width="2.2" marker-end="url(#ah)"/>
+<rect x="512.5" y="428" width="254.99999999999997" height="32" rx="16" fill="#061524" stroke="#F26B7A" stroke-width="1.6"/>
+<rect x="513.5" y="429" width="138.39999999999998" height="30" rx="15" fill="#F26B7A" opacity="0.16"/>
+<text xml:space="preserve" x="581.7" y="449" font-family="'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="13" text-anchor="middle" font-weight="700" fill="#F26B7A">REQUEST  [END]</text>
+<text xml:space="preserve" x="661.9" y="449" font-family="'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="13" fill="#EAF2F8">:path /nope</text>
+<line x1="1030" y1="502" x2="256" y2="502" stroke="#4FE3C1" stroke-width="2.2" marker-end="url(#ah)"/>
+<rect x="508.2" y="486" width="263.6" height="32" rx="16" fill="#061524" stroke="#4FE3C1" stroke-width="1.6"/>
+<rect x="509.2" y="487" width="147.0" height="30" rx="15" fill="#4FE3C1" opacity="0.16"/>
+<text xml:space="preserve" x="581.7" y="507" font-family="'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="13" text-anchor="middle" font-weight="700" fill="#4FE3C1">RESPONSE  [END]</text>
+<text xml:space="preserve" x="666.2" y="507" font-family="'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="13" fill="#EAF2F8">:status 404</text>
+<text xml:space="preserve" x="1046" y="506" font-family="'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="12" fill="#8FB3CF">connection stays open</text>
+<line x1="250" y1="560" x2="1024" y2="560" stroke="#F26B7A" stroke-width="2.2" marker-end="url(#ah)"/>
+<rect x="508.20000000000005" y="544" width="263.59999999999997" height="32" rx="16" fill="#061524" stroke="#F26B7A" stroke-width="1.6"/>
+<rect x="509.20000000000005" y="545" width="138.39999999999998" height="30" rx="15" fill="#F26B7A" opacity="0.16"/>
+<text xml:space="preserve" x="577.4000000000001" y="565" font-family="'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="13" text-anchor="middle" font-weight="700" fill="#F26B7A">REQUEST  [END]</text>
+<text xml:space="preserve" x="657.6" y="565" font-family="'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="13" fill="#EAF2F8">version 0x02</text>
+<line x1="1030" y1="618" x2="256" y2="618" stroke="#4FE3C1" stroke-width="2.2" marker-end="url(#ah)"/>
+<rect x="508.2" y="602" width="263.6" height="32" rx="16" fill="#061524" stroke="#4FE3C1" stroke-width="1.6"/>
+<rect x="509.2" y="603" width="147.0" height="30" rx="15" fill="#4FE3C1" opacity="0.16"/>
+<text xml:space="preserve" x="581.7" y="623" font-family="'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="13" text-anchor="middle" font-weight="700" fill="#4FE3C1">RESPONSE  [END]</text>
+<text xml:space="preserve" x="666.2" y="623" font-family="'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="13" fill="#EAF2F8">:status 400</text>
+<text xml:space="preserve" x="1046" y="622" font-family="'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="12" fill="#8FB3CF">malformed: reply, then close</text>
+<line x1="220" y1="676" x2="1060" y2="676" stroke="#F26B7A" stroke-width="2.5"/>
+<text xml:space="preserve" x="640.0" y="706" font-family="'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="14" text-anchor="middle" fill="#8FB3CF">connection closed by the server. bcurl never opens a second one.</text>
+</g></svg>

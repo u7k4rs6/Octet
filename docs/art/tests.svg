@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="300" viewBox="0 0 1280 300" role="img" aria-label="60 checks in four suites, all passing">
+<title>60 checks in four suites, all passing</title><desc>make test runs 60 checks: 17 between bcurl and bserve, 29 of bserve against an independent Python implementation, 10 of bcurl against a fake server, and 4 on process behaviour.</desc>
+<defs><linearGradient id="sea" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0A2238"/><stop offset="1" stop-color="#061524"/></linearGradient><clipPath id="card"><rect width="1280" height="300" rx="22"/></clipPath><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="context-stroke"/></marker></defs>
+<g clip-path="url(#card)">
+<rect width="1280" height="300" fill="url(#sea)"/>
+<circle cx="593" cy="112" r="0.8" fill="#4FE3C1" opacity="0.17"/>
+<circle cx="866" cy="101" r="1.0" fill="#4FE3C1" opacity="0.37"/>
+<circle cx="103" cy="166" r="1.3" fill="#4FE3C1" opacity="0.32"/>
+<circle cx="932" cy="51" r="1.0" fill="#4FE3C1" opacity="0.39"/>
+<circle cx="541" cy="51" r="0.8" fill="#4FE3C1" opacity="0.15"/>
+<circle cx="648" cy="277" r="1.3" fill="#4FE3C1" opacity="0.14"/>
+<circle cx="881" cy="237" r="0.8" fill="#4FE3C1" opacity="0.38"/>
+<circle cx="262" cy="67" r="1.0" fill="#4FE3C1" opacity="0.37"/>
+<circle cx="989" cy="273" r="1.0" fill="#4FE3C1" opacity="0.20"/>
+<circle cx="1036" cy="60" r="0.8" fill="#4FE3C1" opacity="0.37"/>
+<circle cx="70" cy="114" r="1.0" fill="#4FE3C1" opacity="0.16"/>
+<circle cx="303" cy="221" r="0.8" fill="#4FE3C1" opacity="0.39"/>
+<circle cx="5" cy="229" r="0.8" fill="#4FE3C1" opacity="0.37"/>
+<circle cx="260" cy="2" r="0.8" fill="#4FE3C1" opacity="0.16"/>
+<circle cx="1175" cy="150" r="1.3" fill="#4FE3C1" opacity="0.26"/>
+<circle cx="1179" cy="126" r="1.0" fill="#4FE3C1" opacity="0.17"/>
+<circle cx="979" cy="210" r="0.8" fill="#4FE3C1" opacity="0.17"/>
+<circle cx="779" cy="287" r="0.8" fill="#4FE3C1" opacity="0.20"/>
+<circle cx="875" cy="256" r="1.3" fill="#4FE3C1" opacity="0.20"/>
+<circle cx="1273" cy="299" r="0.8" fill="#4FE3C1" opacity="0.36"/>
+<circle cx="515" cy="272" r="0.8" fill="#4FE3C1" opacity="0.29"/>
+<circle cx="55" cy="110" r="1.3" fill="#4FE3C1" opacity="0.27"/>
+<circle cx="723" cy="206" r="1.0" fill="#4FE3C1" opacity="0.15"/>
+<circle cx="1129" cy="110" r="0.8" fill="#4FE3C1" opacity="0.23"/>
+<circle cx="1262" cy="172" r="0.8" fill="#4FE3C1" opacity="0.23"/>
+<circle cx="778" cy="0" r="0.8" fill="#4FE3C1" opacity="0.18"/>
+<circle cx="568" cy="97" r="0.8" fill="#4FE3C1" opacity="0.21"/>
+<circle cx="365" cy="155" r="0.8" fill="#4FE3C1" opacity="0.13"/>
+<circle cx="999" cy="242" r="1.0" fill="#4FE3C1" opacity="0.22"/>
+<circle cx="996" cy="170" r="0.8" fill="#4FE3C1" opacity="0.24"/>
+<circle cx="296" cy="289" r="1.0" fill="#4FE3C1" opacity="0.26"/>
+<circle cx="1223" cy="168" r="0.8" fill="#4FE3C1" opacity="0.31"/>
+<circle cx="219" cy="253" r="1.0" fill="#4FE3C1" opacity="0.13"/>
+<circle cx="1203" cy="243" r="1.0" fill="#4FE3C1" opacity="0.39"/>
+<circle cx="1262" cy="182" r="0.8" fill="#4FE3C1" opacity="0.13"/>
+<circle cx="577" cy="236" r="1.0" fill="#4FE3C1" opacity="0.29"/>
+<circle cx="1237" cy="106" r="0.8" fill="#4FE3C1" opacity="0.25"/>
+<circle cx="355" cy="289" r="1.3" fill="#4FE3C1" opacity="0.28"/>
+<circle cx="891" cy="20" r="1.0" fill="#4FE3C1" opacity="0.16"/>
+<circle cx="719" cy="238" r="1.3" fill="#4FE3C1" opacity="0.37"/>
+<circle cx="216" cy="215" r="1.3" fill="#4FE3C1" opacity="0.37"/>
+<circle cx="633" cy="30" r="0.8" fill="#4FE3C1" opacity="0.20"/>
+<text xml:space="preserve" x="60" y="62" font-family="'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="13" letter-spacing="3.5" fill="#4FE3C1">MAKE TEST</text>
+<text xml:space="preserve" x="60" y="100" font-family="'Inter','Segoe UI','Helvetica Neue',Arial,'DejaVu Sans',sans-serif" font-size="26" font-weight="700" fill="#EAF2F8">60 checks. The Python peer shares no code with the C.</text>
+<rect x="60.0" y="128" width="324.7" height="12" rx="6" fill="#4FE3C1"/>
+<rect x="388.7" y="128" width="556.7" height="12" rx="6" fill="#F26B7A"/>
+<rect x="949.3" y="128" width="189.3" height="12" rx="6" fill="#F7C35F"/>
+<rect x="1142.7" y="128" width="73.3" height="12" rx="6" fill="#A99BFF"/>
+<rect x="60.0" y="160" width="275.0" height="110" rx="14" fill="#12324F" stroke="#1C4466" stroke-width="1.4"/>
+<text xml:space="preserve" x="82.0" y="208" font-family="'Inter','Segoe UI','Helvetica Neue',Arial,'DejaVu Sans',sans-serif" font-size="38" font-weight="800" fill="#4FE3C1">17</text>
+<text xml:space="preserve" x="142.0" y="204" font-family="'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="14" font-weight="700" fill="#EAF2F8">bcurl vs bserve</text>
+<text xml:space="preserve" x="82.0" y="234" font-family="'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="12" fill="#8FB3CF">keep-alive, /, 404, empty file,</text>
+<text xml:space="preserve" x="82.0" y="252" font-family="'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="12" fill="#8FB3CF">17 MiB split across DATA</text>
+<rect x="355.0" y="160" width="275.0" height="110" rx="14" fill="#12324F" stroke="#1C4466" stroke-width="1.4"/>
+<text xml:space="preserve" x="377.0" y="208" font-family="'Inter','Segoe UI','Helvetica Neue',Arial,'DejaVu Sans',sans-serif" font-size="38" font-weight="800" fill="#F26B7A">29</text>
+<text xml:space="preserve" x="437.0" y="204" font-family="'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="14" font-weight="700" fill="#EAF2F8">bserve vs wire.py</text>
+<text xml:space="preserve" x="377.0" y="234" font-family="'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="12" fill="#8FB3CF">every malformed rule, 1-byte reads,</text>
+<text xml:space="preserve" x="377.0" y="252" font-family="'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="12" fill="#8FB3CF">traversal, symlink escape</text>
+<rect x="650.0" y="160" width="275.0" height="110" rx="14" fill="#12324F" stroke="#1C4466" stroke-width="1.4"/>
+<text xml:space="preserve" x="672.0" y="208" font-family="'Inter','Segoe UI','Helvetica Neue',Arial,'DejaVu Sans',sans-serif" font-size="38" font-weight="800" fill="#F7C35F">10</text>
+<text xml:space="preserve" x="732.0" y="204" font-family="'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="14" font-weight="700" fill="#EAF2F8">bcurl vs fake server</text>
+<text xml:space="preserve" x="672.0" y="234" font-family="'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="12" fill="#8FB3CF">crafted responses: early close,</text>
+<text xml:space="preserve" x="672.0" y="252" font-family="'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="12" fill="#8FB3CF">bad version, length lies</text>
+<rect x="945.0" y="160" width="275.0" height="110" rx="14" fill="#12324F" stroke="#1C4466" stroke-width="1.4"/>
+<text xml:space="preserve" x="967.0" y="208" font-family="'Inter','Segoe UI','Helvetica Neue',Arial,'DejaVu Sans',sans-serif" font-size="38" font-weight="800" fill="#A99BFF">4</text>
+<text xml:space="preserve" x="1003.0" y="204" font-family="'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="14" font-weight="700" fill="#EAF2F8">process</text>
+<text xml:space="preserve" x="967.0" y="234" font-family="'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="12" fill="#8FB3CF">log lines, exit codes,</text>
+<text xml:space="preserve" x="967.0" y="252" font-family="'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="12" fill="#8FB3CF">SIGTERM exits 0</text>
+</g></svg>
