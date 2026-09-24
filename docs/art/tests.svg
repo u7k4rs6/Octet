@@ -1,74 +1,83 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="300" viewBox="0 0 1280 300" role="img" aria-label="60 checks in four suites, all passing">
-<title>60 checks in four suites, all passing</title><desc>make test runs 60 checks: 17 between bcurl and bserve, 29 of bserve against an independent Python implementation, 10 of bcurl against a fake server, and 4 on process behaviour.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="300" viewBox="0 0 1280 300" role="img" aria-label="62 checks in four suites, all passing">
+<title>62 checks in four suites, all passing</title><desc>make test runs 62 checks: 17 between bcurl and bserve, 29 of bserve against an independent Python implementation, 12 of bcurl against a fake server, and 4 on process behaviour.</desc>
 <defs><linearGradient id="sea" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0A2238"/><stop offset="1" stop-color="#061524"/></linearGradient><clipPath id="card"><rect width="1280" height="300" rx="22"/></clipPath><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="context-stroke"/></marker></defs>
+<style>.tw{animation:tw 4s ease-in-out infinite}@keyframes tw{0%,100%{opacity:.12}50%{opacity:.6}}.gr{transform-box:fill-box;transform-origin:left;animation:gr .9s cubic-bezier(.2,.8,.2,1) both}@keyframes gr{from{transform:scaleX(0)}to{transform:scaleX(1)}}.up{animation:up .7s ease-out both}@keyframes up{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:translateY(0)}}@media (prefers-reduced-motion:reduce){*{animation:none!important}}</style>
 <g clip-path="url(#card)">
 <rect width="1280" height="300" fill="url(#sea)"/>
-<circle cx="593" cy="112" r="0.8" fill="#4FE3C1" opacity="0.17"/>
-<circle cx="866" cy="101" r="1.0" fill="#4FE3C1" opacity="0.37"/>
-<circle cx="103" cy="166" r="1.3" fill="#4FE3C1" opacity="0.32"/>
-<circle cx="932" cy="51" r="1.0" fill="#4FE3C1" opacity="0.39"/>
-<circle cx="541" cy="51" r="0.8" fill="#4FE3C1" opacity="0.15"/>
-<circle cx="648" cy="277" r="1.3" fill="#4FE3C1" opacity="0.14"/>
-<circle cx="881" cy="237" r="0.8" fill="#4FE3C1" opacity="0.38"/>
-<circle cx="262" cy="67" r="1.0" fill="#4FE3C1" opacity="0.37"/>
-<circle cx="989" cy="273" r="1.0" fill="#4FE3C1" opacity="0.20"/>
-<circle cx="1036" cy="60" r="0.8" fill="#4FE3C1" opacity="0.37"/>
-<circle cx="70" cy="114" r="1.0" fill="#4FE3C1" opacity="0.16"/>
-<circle cx="303" cy="221" r="0.8" fill="#4FE3C1" opacity="0.39"/>
-<circle cx="5" cy="229" r="0.8" fill="#4FE3C1" opacity="0.37"/>
-<circle cx="260" cy="2" r="0.8" fill="#4FE3C1" opacity="0.16"/>
-<circle cx="1175" cy="150" r="1.3" fill="#4FE3C1" opacity="0.26"/>
-<circle cx="1179" cy="126" r="1.0" fill="#4FE3C1" opacity="0.17"/>
-<circle cx="979" cy="210" r="0.8" fill="#4FE3C1" opacity="0.17"/>
-<circle cx="779" cy="287" r="0.8" fill="#4FE3C1" opacity="0.20"/>
-<circle cx="875" cy="256" r="1.3" fill="#4FE3C1" opacity="0.20"/>
-<circle cx="1273" cy="299" r="0.8" fill="#4FE3C1" opacity="0.36"/>
-<circle cx="515" cy="272" r="0.8" fill="#4FE3C1" opacity="0.29"/>
-<circle cx="55" cy="110" r="1.3" fill="#4FE3C1" opacity="0.27"/>
-<circle cx="723" cy="206" r="1.0" fill="#4FE3C1" opacity="0.15"/>
-<circle cx="1129" cy="110" r="0.8" fill="#4FE3C1" opacity="0.23"/>
-<circle cx="1262" cy="172" r="0.8" fill="#4FE3C1" opacity="0.23"/>
-<circle cx="778" cy="0" r="0.8" fill="#4FE3C1" opacity="0.18"/>
-<circle cx="568" cy="97" r="0.8" fill="#4FE3C1" opacity="0.21"/>
-<circle cx="365" cy="155" r="0.8" fill="#4FE3C1" opacity="0.13"/>
-<circle cx="999" cy="242" r="1.0" fill="#4FE3C1" opacity="0.22"/>
-<circle cx="996" cy="170" r="0.8" fill="#4FE3C1" opacity="0.24"/>
-<circle cx="296" cy="289" r="1.0" fill="#4FE3C1" opacity="0.26"/>
-<circle cx="1223" cy="168" r="0.8" fill="#4FE3C1" opacity="0.31"/>
-<circle cx="219" cy="253" r="1.0" fill="#4FE3C1" opacity="0.13"/>
-<circle cx="1203" cy="243" r="1.0" fill="#4FE3C1" opacity="0.39"/>
-<circle cx="1262" cy="182" r="0.8" fill="#4FE3C1" opacity="0.13"/>
-<circle cx="577" cy="236" r="1.0" fill="#4FE3C1" opacity="0.29"/>
-<circle cx="1237" cy="106" r="0.8" fill="#4FE3C1" opacity="0.25"/>
-<circle cx="355" cy="289" r="1.3" fill="#4FE3C1" opacity="0.28"/>
-<circle cx="891" cy="20" r="1.0" fill="#4FE3C1" opacity="0.16"/>
-<circle cx="719" cy="238" r="1.3" fill="#4FE3C1" opacity="0.37"/>
-<circle cx="216" cy="215" r="1.3" fill="#4FE3C1" opacity="0.37"/>
-<circle cx="633" cy="30" r="0.8" fill="#4FE3C1" opacity="0.20"/>
+<circle class="tw" style="animation-delay:-1.9s" cx="478" cy="42" r="1.3" fill="#4FE3C1" opacity="0.12"/>
+<circle class="tw" style="animation-delay:-2.0s" cx="1150" cy="24" r="1.3" fill="#4FE3C1" opacity="0.38"/>
+<circle class="tw" style="animation-delay:-2.8s" cx="932" cy="51" r="1.0" fill="#4FE3C1" opacity="0.39"/>
+<circle class="tw" style="animation-delay:-1.7s" cx="216" cy="15" r="0.8" fill="#4FE3C1" opacity="0.26"/>
+<circle class="tw" style="animation-delay:-3.7s" cx="756" cy="232" r="1.0" fill="#4FE3C1" opacity="0.34"/>
+<circle class="tw" style="animation-delay:-3.5s" cx="1176" cy="61" r="0.8" fill="#4FE3C1" opacity="0.32"/>
+<circle class="tw" style="animation-delay:-1.7s" cx="112" cy="80" r="0.8" fill="#4FE3C1" opacity="0.23"/>
+<circle class="tw" style="animation-delay:-1.4s" cx="55" cy="213" r="0.8" fill="#4FE3C1" opacity="0.37"/>
+<circle class="tw" style="animation-delay:-0.2s" cx="485" cy="148" r="0.8" fill="#4FE3C1" opacity="0.19"/>
+<circle class="tw" style="animation-delay:-2.9s" cx="1089" cy="289" r="0.8" fill="#4FE3C1" opacity="0.15"/>
+<circle class="tw" style="animation-delay:-2.3s" cx="1146" cy="61" r="0.8" fill="#4FE3C1" opacity="0.37"/>
+<circle class="tw" style="animation-delay:-0.5s" cx="1175" cy="150" r="1.3" fill="#4FE3C1" opacity="0.26"/>
+<circle class="tw" style="animation-delay:-3.7s" cx="538" cy="119" r="1.3" fill="#4FE3C1" opacity="0.33"/>
+<circle class="tw" style="animation-delay:-2.8s" cx="186" cy="282" r="1.3" fill="#4FE3C1" opacity="0.39"/>
+<circle class="tw" style="animation-delay:-0.2s" cx="710" cy="182" r="0.8" fill="#4FE3C1" opacity="0.33"/>
+<circle class="tw" style="animation-delay:-2.9s" cx="736" cy="10" r="1.3" fill="#4FE3C1" opacity="0.23"/>
+<circle class="tw" style="animation-delay:-3.6s" cx="207" cy="151" r="1.3" fill="#4FE3C1" opacity="0.22"/>
+<circle class="tw" style="animation-delay:-2.7s" cx="756" cy="232" r="0.8" fill="#4FE3C1" opacity="0.36"/>
+<circle class="tw" style="animation-delay:-0.4s" cx="1129" cy="110" r="0.8" fill="#4FE3C1" opacity="0.23"/>
+<circle class="tw" style="animation-delay:-3.9s" cx="735" cy="6" r="1.3" fill="#4FE3C1" opacity="0.21"/>
+<circle class="tw" style="animation-delay:-1.7s" cx="273" cy="133" r="1.0" fill="#4FE3C1" opacity="0.35"/>
+<circle class="tw" style="animation-delay:-1.2s" cx="365" cy="155" r="0.8" fill="#4FE3C1" opacity="0.13"/>
+<circle class="tw" style="animation-delay:-3.1s" cx="1034" cy="149" r="1.3" fill="#4FE3C1" opacity="0.34"/>
+<circle class="tw" style="animation-delay:-2.3s" cx="85" cy="194" r="0.8" fill="#4FE3C1" opacity="0.39"/>
+<circle class="tw" style="animation-delay:-1.6s" cx="477" cy="258" r="1.0" fill="#4FE3C1" opacity="0.16"/>
+<circle class="tw" style="animation-delay:-1.2s" cx="887" cy="263" r="0.8" fill="#4FE3C1" opacity="0.13"/>
+<circle class="tw" style="animation-delay:-3.9s" cx="221" cy="284" r="0.8" fill="#4FE3C1" opacity="0.29"/>
+<circle class="tw" style="animation-delay:-0.0s" cx="78" cy="63" r="1.0" fill="#4FE3C1" opacity="0.20"/>
+<circle class="tw" style="animation-delay:-0.1s" cx="1022" cy="86" r="1.0" fill="#4FE3C1" opacity="0.28"/>
+<circle class="tw" style="animation-delay:-0.5s" cx="111" cy="167" r="1.3" fill="#4FE3C1" opacity="0.15"/>
+<circle class="tw" style="animation-delay:-1.7s" cx="182" cy="169" r="1.0" fill="#4FE3C1" opacity="0.28"/>
+<circle class="tw" style="animation-delay:-3.2s" cx="849" cy="82" r="1.3" fill="#4FE3C1" opacity="0.37"/>
+<circle class="tw" style="animation-delay:-2.0s" cx="127" cy="15" r="1.3" fill="#4FE3C1" opacity="0.16"/>
+<circle class="tw" style="animation-delay:-3.2s" cx="1050" cy="49" r="0.8" fill="#4FE3C1" opacity="0.36"/>
+<circle class="tw" style="animation-delay:-0.8s" cx="606" cy="177" r="1.3" fill="#4FE3C1" opacity="0.23"/>
+<circle class="tw" style="animation-delay:-0.7s" cx="617" cy="284" r="1.3" fill="#4FE3C1" opacity="0.14"/>
+<circle class="tw" style="animation-delay:-2.6s" cx="744" cy="176" r="1.0" fill="#4FE3C1" opacity="0.27"/>
+<circle class="tw" style="animation-delay:-2.1s" cx="688" cy="273" r="0.8" fill="#4FE3C1" opacity="0.37"/>
+<circle class="tw" style="animation-delay:-2.3s" cx="1223" cy="19" r="0.8" fill="#4FE3C1" opacity="0.32"/>
+<circle class="tw" style="animation-delay:-0.4s" cx="895" cy="136" r="1.0" fill="#4FE3C1" opacity="0.37"/>
+<circle class="tw" style="animation-delay:-2.9s" cx="869" cy="9" r="0.8" fill="#4FE3C1" opacity="0.37"/>
+<circle class="tw" style="animation-delay:-0.9s" cx="1054" cy="219" r="1.3" fill="#4FE3C1" opacity="0.26"/>
 <text xml:space="preserve" x="60" y="62" font-family="'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="13" letter-spacing="3.5" fill="#4FE3C1">MAKE TEST</text>
-<text xml:space="preserve" x="60" y="100" font-family="'Inter','Segoe UI','Helvetica Neue',Arial,'DejaVu Sans',sans-serif" font-size="26" font-weight="700" fill="#EAF2F8">60 checks. The Python peer shares no code with the C.</text>
-<rect x="60.0" y="128" width="324.7" height="12" rx="6" fill="#4FE3C1"/>
-<rect x="388.7" y="128" width="556.7" height="12" rx="6" fill="#F26B7A"/>
-<rect x="949.3" y="128" width="189.3" height="12" rx="6" fill="#F7C35F"/>
-<rect x="1142.7" y="128" width="73.3" height="12" rx="6" fill="#A99BFF"/>
+<text xml:space="preserve" x="60" y="100" font-family="'Inter','Segoe UI','Helvetica Neue',Arial,'DejaVu Sans',sans-serif" font-size="26" font-weight="700" fill="#EAF2F8">62 checks. The Python peer shares no code with the C.</text>
+<rect class="gr" style="animation-delay:0.20s" x="60.0" y="128" width="314.1" height="12" rx="6" fill="#4FE3C1"/>
+<rect class="gr" style="animation-delay:0.45s" x="378.1" y="128" width="538.6" height="12" rx="6" fill="#F26B7A"/>
+<rect class="gr" style="animation-delay:0.70s" x="920.6" y="128" width="220.5" height="12" rx="6" fill="#F7C35F"/>
+<rect class="gr" style="animation-delay:0.95s" x="1145.2" y="128" width="70.8" height="12" rx="6" fill="#A99BFF"/>
+<g class="up" style="animation-delay:0.50s">
 <rect x="60.0" y="160" width="275.0" height="110" rx="14" fill="#12324F" stroke="#1C4466" stroke-width="1.4"/>
 <text xml:space="preserve" x="82.0" y="208" font-family="'Inter','Segoe UI','Helvetica Neue',Arial,'DejaVu Sans',sans-serif" font-size="38" font-weight="800" fill="#4FE3C1">17</text>
 <text xml:space="preserve" x="142.0" y="204" font-family="'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="14" font-weight="700" fill="#EAF2F8">bcurl vs bserve</text>
 <text xml:space="preserve" x="82.0" y="234" font-family="'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="12" fill="#8FB3CF">keep-alive, /, 404, empty file,</text>
 <text xml:space="preserve" x="82.0" y="252" font-family="'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="12" fill="#8FB3CF">17 MiB split across DATA</text>
+</g>
+<g class="up" style="animation-delay:0.70s">
 <rect x="355.0" y="160" width="275.0" height="110" rx="14" fill="#12324F" stroke="#1C4466" stroke-width="1.4"/>
 <text xml:space="preserve" x="377.0" y="208" font-family="'Inter','Segoe UI','Helvetica Neue',Arial,'DejaVu Sans',sans-serif" font-size="38" font-weight="800" fill="#F26B7A">29</text>
 <text xml:space="preserve" x="437.0" y="204" font-family="'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="14" font-weight="700" fill="#EAF2F8">bserve vs wire.py</text>
 <text xml:space="preserve" x="377.0" y="234" font-family="'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="12" fill="#8FB3CF">every malformed rule, 1-byte reads,</text>
 <text xml:space="preserve" x="377.0" y="252" font-family="'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="12" fill="#8FB3CF">traversal, symlink escape</text>
+</g>
+<g class="up" style="animation-delay:0.90s">
 <rect x="650.0" y="160" width="275.0" height="110" rx="14" fill="#12324F" stroke="#1C4466" stroke-width="1.4"/>
-<text xml:space="preserve" x="672.0" y="208" font-family="'Inter','Segoe UI','Helvetica Neue',Arial,'DejaVu Sans',sans-serif" font-size="38" font-weight="800" fill="#F7C35F">10</text>
+<text xml:space="preserve" x="672.0" y="208" font-family="'Inter','Segoe UI','Helvetica Neue',Arial,'DejaVu Sans',sans-serif" font-size="38" font-weight="800" fill="#F7C35F">12</text>
 <text xml:space="preserve" x="732.0" y="204" font-family="'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="14" font-weight="700" fill="#EAF2F8">bcurl vs fake server</text>
 <text xml:space="preserve" x="672.0" y="234" font-family="'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="12" fill="#8FB3CF">crafted responses: early close,</text>
-<text xml:space="preserve" x="672.0" y="252" font-family="'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="12" fill="#8FB3CF">bad version, length lies</text>
+<text xml:space="preserve" x="672.0" y="252" font-family="'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="12" fill="#8FB3CF">bad version or status, length lies</text>
+</g>
+<g class="up" style="animation-delay:1.10s">
 <rect x="945.0" y="160" width="275.0" height="110" rx="14" fill="#12324F" stroke="#1C4466" stroke-width="1.4"/>
 <text xml:space="preserve" x="967.0" y="208" font-family="'Inter','Segoe UI','Helvetica Neue',Arial,'DejaVu Sans',sans-serif" font-size="38" font-weight="800" fill="#A99BFF">4</text>
 <text xml:space="preserve" x="1003.0" y="204" font-family="'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="14" font-weight="700" fill="#EAF2F8">process</text>
 <text xml:space="preserve" x="967.0" y="234" font-family="'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="12" fill="#8FB3CF">log lines, exit codes,</text>
 <text xml:space="preserve" x="967.0" y="252" font-family="'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="12" fill="#8FB3CF">SIGTERM exits 0</text>
+</g>
 </g></svg>

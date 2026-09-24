@@ -118,7 +118,7 @@ scope, deliberately.
 ## Tested from the other side of the wire
 
 <p align="center">
-  <img src="docs/art/tests.svg" alt="make test: 60 checks in four suites, 17 bcurl vs bserve, 29 bserve vs wire.py, 10 bcurl vs a fake server, 4 process behaviour" width="100%">
+  <img src="docs/art/tests.svg" alt="make test: 62 checks in four suites, 17 bcurl vs bserve, 29 bserve vs wire.py, 12 bcurl vs a fake server, 4 process behaviour" width="100%">
 </p>
 
 Testing the two programs only against each other would prove they agree with
