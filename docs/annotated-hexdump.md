@@ -18,13 +18,13 @@ run. Nothing else does.
 00000020  61 6c 68 6f 73 74 3a 39  31 32 34 84 00 07 62 63  |alhost:9124...bc|
 00000030  75 72 6c 2f 31 85 00 03  2a 2f 2a                 |url/1...*/*|
 0000003b
-< RESPONSE len=83 flags= v=1
+< RESPONSE len=83 flags=0 v=1
 00000000  00 00 53 02 00 01 05 86  00 03 32 30 30 87 00 02  |..S.......200...|
 00000010  31 33 88 00 19 74 65 78  74 2f 70 6c 61 69 6e 3b  |13...text/plain;|
 00000020  20 63 68 61 72 73 65 74  3d 75 74 66 2d 38 89 00  | charset=utf-8..|
 00000030  08 62 73 65 72 76 65 2f  31 8a 00 1d 54 68 75 2c  |.bserve/1...Thu,|
 00000040  20 32 34 20 53 65 70 20  32 30 32 36 20 32 30 3a  | 24 Sep 2026 20:|
-00000050  33 37 3a 33 36 20 47 4d  54                       |37:36 GMT|
+00000050  35 30 3a 34 33 20 47 4d  54                       |50:43 GMT|
 00000059
 < DATA len=13 flags=END v=1
 00000000  00 00 0d 03 01 01 68 65  6c 6c 6f 2c 20 6f 63 74  |......hello, oct|
@@ -67,7 +67,7 @@ Payload check: 1 (count) + 6 (`:method`) + 13 (`:path`) + 17 (`host`) +
 |---|---|---|---|
 | 0x00 | `00 00 53` | length | 83 payload bytes |
 | 0x03 | `02` | type | RESPONSE |
-| 0x04 | `00` | flags | END clear: DATA frames follow (§1). bcurl prints this as `flags=` |
+| 0x04 | `00` | flags | END clear: DATA frames follow (§1). bcurl prints this as `flags=0` |
 | 0x05 | `01` | version | v1 |
 | 0x06 | `05` | count | 5 headers |
 | 0x07 | `86` | form | indexed 6: `:status` |
@@ -84,7 +84,7 @@ Payload check: 1 (count) + 6 (`:method`) + 13 (`:path`) + 17 (`host`) +
 | 0x31 | `62 73 65 72 76 65 2f 31` | value | `bserve/1` |
 | 0x39 | `8a` | form | indexed 10: `date` |
 | 0x3a | `00 1d` | value length | 29 |
-| 0x3c | `54 68 ... 4d 54` | value | `Thu, 24 Sep 2026 20:37:36 GMT` (IMF-fixdate, UTC) |
+| 0x3c | `54 68 ... 4d 54` | value | `Thu, 24 Sep 2026 20:50:43 GMT` (IMF-fixdate, UTC) |
 | 0x59 | | end | 6 + 83 = 89 bytes |
 
 Payload check: 1 + 6 + 5 + 28 + 11 + 32 = 83 = `0x53`.

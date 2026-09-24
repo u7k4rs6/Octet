@@ -77,7 +77,7 @@ make test
 00000020  61 6c 68 6f 73 74 3a 39  31 32 34 84 00 07 62 63  |alhost:9124...bc|
 00000030  75 72 6c 2f 31 85 00 03  2a 2f 2a                 |url/1...*/*|
 0000003b
-< RESPONSE len=83 flags= v=1
+< RESPONSE len=83 flags=0 v=1
 ```
 
 Every byte of that exchange is explained, field by field, in

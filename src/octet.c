@@ -323,6 +323,8 @@ void oct_dump_frame(FILE *f, char dir, const uint8_t raw[OCT_HDR_LEN],
         fputs("END", f);
     else if (fh.flags)
         fprintf(f, "0x%02x", fh.flags);
+    else
+        fputc('0', f);
     fprintf(f, " v=%u\n", fh.version);
 
     for (size_t row = 0; row < total; row += 16) {

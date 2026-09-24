@@ -193,7 +193,8 @@ static int read_response(int fd)
                 rc = die(err);
                 break;
             }
-            if (parse_num(oct_hb_find(h, n, OCT_H_STATUS), &status) < 0 ||
+            const struct oct_hdr *sh = oct_hb_find(h, n, OCT_H_STATUS);
+            if (!sh || sh->vlen != 3 || parse_num(sh, &status) < 0 ||
                 status < 100 || status > 599) {
                 rc = die("missing or invalid :status");
                 break;

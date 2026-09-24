@@ -234,6 +234,8 @@ def client_tests(bcurl):
     check("client: body shorter than content-length exits 2",
           run(frame(RESPONSE, 0, hblock([(6, "200"), (7, "9")])) + frame(DATA, END, b"xyz"))[0] == 2)
     check("client: missing :status exits 2", run(frame(RESPONSE, END, hblock([(9, "x")])))[0] == 2)
+    check("client: :status 0200 exits 2", run(frame(RESPONSE, END, hblock([(6, "0200"), (7, "0")])))[0] == 2)
+    check("client: :status 42 exits 2", run(frame(RESPONSE, END, hblock([(6, "42"), (7, "0")])))[0] == 2)
 
 
 if __name__ == "__main__":
