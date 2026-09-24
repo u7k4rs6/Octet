@@ -1,0 +1,5 @@
+/bserve
+/bcurl
+*.o
+/tests/tmp/
+*.pdf
